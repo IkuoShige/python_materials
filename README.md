@@ -1,3 +1,3 @@
 # python_materials
 
-1年生向けpython勉強会資料
+python勉強会資料
